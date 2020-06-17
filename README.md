@@ -21,6 +21,7 @@ https://respectedb.tistory.com/entry/라즈베리파이-워드프레스-설치 (
 
 After you install wordpress, you are ready to make your website. 
 You can modify and add the functions with HTML codes OR CSS codes in your site. 
+(When you add CSS codes, there is a chance that the program does not apply confirm your change. If it happens, try to add !important at the end of the codes.)
 
 **what I added in my website**
 
