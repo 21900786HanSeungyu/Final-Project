@@ -17,8 +17,15 @@ However, since the informaion is collected and linked in this one site, people w
 **How do I get started?** 
 
 To begin with, you should install wordpress in your raspberrypi server. 
+https://respectedb.tistory.com/entry/라즈베리파이-워드프레스-설치 (I used this site to install wordpress)
+
 After you install wordpress, you are ready to make your website. 
 You can modify and add the functions with HTML codes OR CSS codes in your site. 
+
+**what I added in my website**
+I changed CSS code in order to change the color of the site.
+I added HTML code in the post I have written.(This is imagemap for the map image that I used to link the other sites.) 
+--> HTML codes are in the source file.
 
 **Where can I get more help, if I need it?**
 
