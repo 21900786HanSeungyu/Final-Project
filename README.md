@@ -23,6 +23,7 @@ After you install wordpress, you are ready to make your website.
 You can modify and add the functions with HTML codes OR CSS codes in your site. 
 
 **what I added in my website**
+
 I changed CSS code in order to change the color of the site.
 I added HTML code in the post I have written.(This is imagemap for the map image that I used to link the other sites.) 
 --> HTML codes are in the source file.
